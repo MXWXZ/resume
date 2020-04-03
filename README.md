@@ -1,7 +1,7 @@
 # 一个简洁优雅的 XeLaTeX 简历模板
 
-- [Resume_EN](https://github.com/MXWXZ/resume/raw/master/pdf/resume.pdf)
-- [Resume_CN](https://github.com/MXWXZ/resume/raw/master/pdf/resume-zh_CN.pdf)
+- [Resume_EN](https://github.com/MXWXZ/resume/raw/zh_CN/pdf/resume.pdf)
+- [Resume_CN](https://github.com/MXWXZ/resume/raw/zh_CN/pdf/resume-zh_CN.pdf)
 
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
 
