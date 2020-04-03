@@ -1,5 +1,8 @@
 # 一个简洁优雅的 XeLaTeX 简历模板
 
+- [Resume_EN](https://github.com/MXWXZ/resume/raw/master/pdf/resume.pdf)
+- [Resume_CN](https://github.com/MXWXZ/resume/raw/master/pdf/resume-zh_CN.pdf)
+
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
 
 每年的9月10月是求职的高峰季，除了简历上充实的干货之外，一份美美的简历自然是能助你一臂之力的啦。

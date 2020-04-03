@@ -1,5 +1,7 @@
 SRC = $(wildcard *.tex)
 
+PDF_DIR = pdf
+
 PDFS = $(SRC:.tex=.pdf)
 
 all:	clean pdf
@@ -11,7 +13,7 @@ zh_CN:	clean xelatex resume-zh_CN.tex
 pdf:	clean $(PDFS)
 
 %.pdf:  %.tex
-	xelatex $<
+	xelatex -output-directory=$(PDF_DIR) $<
 
 ifeq ($(OS),Windows_NT)
   # on Windows
